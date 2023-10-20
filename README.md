@@ -1,1 +1,1 @@
-# .github
+# Docker Hackathon AI Sketch project
