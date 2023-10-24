@@ -6,7 +6,7 @@
 3. [Image Processing and Analyzing Microservice](#image-processing-and-analyzing-microservice)
 4. [Database Interaction Microservice](#database-interaction-microservice)
 5. [Logging and Monitoring Microservice](#logging-and-monitoring-microservice)
-6. [Container Orchestration Microservice](#container-orchestration-microservice)
+
 
 ## Frontend Microservice
 The Frontend Microservice is the user interface of the Intelligent Image Analysis Platform. It's built with Next.js, Mantine, and TypeScript, running on a Node.js environment. This microservice allows users to upload images, view analysis results, and interact with other parts of the platform.
